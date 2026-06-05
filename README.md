@@ -1,1 +1,1 @@
-# Ai_interview_trsiner
+# Ai_interview_trainer
